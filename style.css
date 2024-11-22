@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+    color: brown;
+    font-size: 12pt;
+}
+h1{
+    color: red;
+    text-align: center;
+    background-color: yellowgreen;
+    padding :10px;
+    margin: 20px;
+}
+div{
+    display: inline-block;
+    width: 45%;
+    margin: 20px;
+    border: 2px dashed blue;
+    padding: 5px;
+    vertical-align: top;
+}
+nav{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 15px;
+}
+a.link{
+    background-color: lightgoldenrodyellow;
+    padding: 5px;
+}
+a:hover{
+    background-color: cadetblue;
+    color : lightgoldenrodyellow;
+}

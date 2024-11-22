@@ -1,0 +1,15 @@
+{
+    "name": "jasminejs",
+    "version": "1.0.0",
+    "description": "- It is a Unit Testing library provided for JS Applications.\r - It focuses on BTD(Behavioral Test Development). \r - It is used to perform Testing on functions created in JS. \r - It does not depend on any browser and can be viewed on Terminals.\r - If U want to run on any browser, we can depend on Test runners like Karma.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jasmine"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jasmine": "^5.4.0"
+    }
+}
